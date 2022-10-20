@@ -5,3 +5,4 @@
 - Govt 
 - private
 - Degree College
+- state (Karnataka and MH)
